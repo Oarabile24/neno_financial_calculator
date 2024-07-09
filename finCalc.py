@@ -1,4 +1,5 @@
 #financial calculator of a small company that allows the user to access two calculators by Toufique Mahlangu, July 2024.
+#
 import math
 
 #main function with a while loop, while the user still wants to calculate. 
